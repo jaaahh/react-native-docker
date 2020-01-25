@@ -47,3 +47,5 @@ Step 7:
 ```sh
 $ cd android && ./gradlew assembleRelease
 ```
+APK file will be in /android/app/build/outputs/apk/release
+
