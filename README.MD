@@ -7,9 +7,7 @@ React Native Docker is a docker image that helps you to compile and run your rea
 ### Docker Installation
 
 Download annd install Docker in your machine. 
-[Docker Mac OS](https://docs.docker.com/docker-for-mac/install/)
-[Docker Windows](https://docs.docker.com/docker-for-windows/install/)
-
+[Docker Mac OS](https://docs.docker.com/docker-for-mac/install/) | [Docker Windows](https://docs.docker.com/docker-for-windows/install/)
 
 ### Usage
 
@@ -49,4 +47,3 @@ Step 7:
 ```sh
 $ cd android && ./gradlew assembleRelease
 ```
-
